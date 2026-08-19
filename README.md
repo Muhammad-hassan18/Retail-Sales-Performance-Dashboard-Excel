@@ -1,7 +1,7 @@
 # 📊 Retail Sales Performance Dashboard Excel
 
 **An end-to-end Microsoft Excel analytics project transforming raw retail transaction data into an interactive business intelligence dashboard.**
-
+ 
 ---
 
 ## Executive Summary
